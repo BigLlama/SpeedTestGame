@@ -5,11 +5,6 @@ import time
 import os
 import sys
 
-# BUGS
-# mute buttons should always be visible
-# implement restart app function
-# convert to OOP
-
 pygame.init()
 mixer.init()
 
